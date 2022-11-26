@@ -1,2 +1,1 @@
-# keep-clone
-Created with CodeSandbox
+# Google Keep lone
